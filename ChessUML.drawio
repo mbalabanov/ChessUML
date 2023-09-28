@@ -507,7 +507,7 @@
                     <mxGeometry x="890" y="435" width="40" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="172" value="Alphanummerische&#10;Koordinaten" style="text;align=right;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-                    <mxGeometry x="760" y="159" width="125" height="30" as="geometry"/>
+                    <mxGeometry x="760" y="150" width="125" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="173" value="Klassendiagramm Schach" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="1">
                     <mxGeometry x="60" y="30" width="290" height="40" as="geometry"/>
