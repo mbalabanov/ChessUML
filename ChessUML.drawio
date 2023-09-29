@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="LiiUiLmAXnGqsflsbKMH" name="Page-1">
-        <mxGraphModel dx="1062" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="607" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -105,23 +105,13 @@
                 <mxCell id="181" value="+ rochade(von: String,&#10;   zu: String): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="41" vertex="1">
                     <mxGeometry y="114" width="140" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="174" target="21" edge="1">
+                <mxCell id="45" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="174" target="21" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="430" y="760" as="sourcePoint"/>
                         <mxPoint x="270" y="960" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="46" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="45" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="-40" y="-5" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="47" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="45" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-10" y="-10" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="48" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.087;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="174" target="25" edge="1">
+                <mxCell id="48" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.087;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" parent="1" source="174" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="430" y="740" as="sourcePoint"/>
                         <mxPoint x="280" y="790" as="targetPoint"/>
@@ -131,17 +121,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="49" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="48" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="-40" y="21" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="50" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="48" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-10" y="-10" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="51" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.353;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="174" target="29" edge="1">
+                <mxCell id="51" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.353;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" parent="1" source="174" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="477.80999999999995" y="739.43" as="sourcePoint"/>
                         <mxPoint x="340" y="790" as="targetPoint"/>
@@ -151,17 +131,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="52" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="51" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="-40" y="21" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="53" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="51" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-10" y="-10" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="54" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="174" target="33" edge="1">
+                <mxCell id="54" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=1;" parent="1" source="174" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="620" y="740" as="sourcePoint"/>
                         <mxPoint x="610" y="788.5699999999999" as="targetPoint"/>
@@ -172,33 +142,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="54" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="3" y="21" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="56" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="54" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-10" y="-10" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="60" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="174" target="41" edge="1">
+                <mxCell id="60" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=1;" parent="1" target="41" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="790.04" y="738.004" as="sourcePoint"/>
+                        <mxPoint x="750" y="700" as="sourcePoint"/>
                         <mxPoint x="930" y="790" as="targetPoint"/>
                         <Array as="points">
                             <mxPoint x="1000" y="700"/>
                         </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="61" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="60" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="10" y="-5" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="62" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="60" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-10" y="-10" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="66" value="Uebersetzung&#10;der X Koordinaten" style="text;align=left;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
@@ -225,7 +175,7 @@
                 <mxCell id="71" value="+ xUebersetzen(Char xPosChar): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="68" vertex="1">
                     <mxGeometry y="138" width="310" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.48;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="174" target="37" edge="1">
+                <mxCell id="76" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.48;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="1" source="174" target="37" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="709" y="720" as="sourcePoint"/>
                         <mxPoint x="724.98" y="819.4100000000001" as="targetPoint"/>
@@ -233,16 +183,6 @@
                             <mxPoint x="709" y="769"/>
                             <mxPoint x="829" y="769"/>
                         </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="77" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="76" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="3" y="21" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="78" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="76" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry">
-                        <mxPoint x="-7" y="-9" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="84" value="Bewegungs-&#10;moeglichkeiten:&#10;&#10;Erster Zug:&#10;y + 2 (Doppelzug)&#10;&#10;Alle anderen Zuege:&#10;y + 1&#10;&#10;Schlagen:&#10;x + 1, y + 1&#10;x - 1, y + 1&#10;(auf Position des&#10;Gegners)&#10;&#10;En Passant:&#10;x + 1, y + 1&#10;x - 1, y + 1&#10;(an Position des&#10;Gegners vorbei, nur&#10;wenn Gegner Bauer,&#10;und nur wenn Gegner&#10;Doppelzug gemacht&#10;hat.)" style="text;align=left;fontStyle=0;verticalAlign=top;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
@@ -530,16 +470,16 @@
                 <mxCell id="190" value="rochade( turmVon: String, turmZu String,&#10;koenigVon: String, koenigZu String  )" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
                     <mxGeometry x="650" y="1430" width="243" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="192" value="Die Schachnotation verwendet&#10;Buchstaben fuer die X-Koordinaten&#10;und Ziffern fuer die Y-Koordinaten.&#10;Die Eingabe (z.B. e2 auf e3) muss&#10;in nummerische Koordinaten&#10;umgewandelt werden, um die&#10;Gueltigkeit des Zugs zu&#10;berechnen." style="text;align=right;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+                <mxCell id="192" value="Die Schachnotation verwendet&#10;Buchstaben fuer die X-Koordinaten&#10;und Ziffern fuer die Y-Koordinaten.&#10;Die Eingabe (z.B. e2 auf e3) muss&#10;in nummerische Koordinaten&#10;umgewandelt werden, um die&#10;Gueltigkeit des Zugs zu&#10;berechnen." style="text;align=right;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
                     <mxGeometry x="680" y="250" width="205" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="193" value="3. Erklaerung der Methoden" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="193" value="3. Erklaerung der Methoden" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="67.5" y="1400" width="202.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="194" value="2. Schachfiguren" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="194" value="2. Schachfiguren" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="60" y="500" width="202.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="195" value="1. Schachbrett und Spielpositionen" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="195" value="1. Schachbrett und Spielpositionen" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="60" y="150" width="260" height="30" as="geometry"/>
                 </mxCell>
             </root>
